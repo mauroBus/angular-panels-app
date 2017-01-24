@@ -29,7 +29,7 @@ var MyApp = function() {
       //  allows us to run/test the app locally.
       console.warn('No OPENSHIFT_NODEJS_IP var, using 127.0.0.1');
       self.ipaddress = "127.0.0.1";
-    };
+    }
   };
 
 
