@@ -26,6 +26,7 @@ crashlytics-build.properties
 gulp.1
 build
 .tmp
+.publish
 
 node_modules
 /src/release
