@@ -17,6 +17,10 @@ After repository is cloned, go inside of repository directory and install depend
   `gulp serve:dist`
 
 
+## Deploy
+  `gulp deploy`
+
+
 ## Features
 * Responsive layout
 * High resolution
